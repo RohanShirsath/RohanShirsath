@@ -1,20 +1,20 @@
 <h1 align=center> Hi there, I'm Shiva 👋
   <br>
-  <a href=https://twitter.com/ShivaShirsath>
+  <a href=https://twitter.com/RohanShirsath>
     <img
       src=https://avatars.githubusercontent.com/twitter
       width=6%
       height=6%
     />
   </a>
-  <a href=https://instagram.com/_Shiva_Shirsath__>
+  <a href=https://instagram.com/_Rohan_Shirsath>
     <img
       src=icons/insta.svg
       width=6%
       height=6%
     />
   </a>
-  <a href=https://wa.me/+919130057189>
+  <a href=https://wa.me/+919359057904>
     <img
       src=icons/whatsapp.svg
       width=6%
