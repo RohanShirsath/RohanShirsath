@@ -1,6 +1,3 @@
-### Hi there 👋
-
-Here  me about ...
 <h1 align=center> Hi there, I'm Shiva 👋
   <br>
   <a href=https://twitter.com/ShivaShirsath>
