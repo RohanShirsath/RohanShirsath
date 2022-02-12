@@ -229,7 +229,7 @@
 <h2 align=center>
     <a href=https://rohanshirsath.github.io/Languages> 
       <img 
-        src=https://github-readme-stats.vercel.app/api?username=ShivaShirsath&show_icons=true&bg_color=00000000&icon_color=ffb74d&text_color=ffd95b&title_color=ffa726&hide_title=true 
+        src=https://github-readme-stats.vercel.app/api?username=RohanShirsath&show_icons=true&bg_color=00000000&icon_color=ffb74d&text_color=ffd95b&title_color=ffa726&hide_title=true 
         width=100% 
         height=100% 
       />
