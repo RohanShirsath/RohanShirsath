@@ -7,7 +7,7 @@
       height=6%
     />
   </a>
-  <a href=https://instagram.com/_Rohan_Shirsath_>
+  <a href=https://instagram.com/_royal_ro_>
     <img
       src=icons/insta.svg
       width=6%
