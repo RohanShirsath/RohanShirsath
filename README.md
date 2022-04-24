@@ -15,7 +15,7 @@
     />
   </a>
   
-  <a href=https://facebook.com/RohanShirsath>
+  <a href=https://facebook.com/Rohan>
     <img
       src=icons/facebook.svg
       width=6%
